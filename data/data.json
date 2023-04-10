@@ -1,0 +1,19 @@
+{
+  "todos":[
+    {
+      "id": 1,
+      "text": "간식 사기",
+      "checked": true
+    },
+    {
+      "id": 2,
+      "text": "산책 하기",
+      "checked": false
+    },
+    {
+      "id": 3,
+      "text": "밥 주기",
+      "checked": true
+    }
+  ]
+}
